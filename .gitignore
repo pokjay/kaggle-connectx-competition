@@ -1,3 +1,16 @@
+# Tensorboard, Model dirs, Weights and Biases, logs
+tensorboard/
+wandb/
+wandb_models/
+logs/
+models/
+
+# Pyenv
+.python-version
+
+# PyCharm
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
